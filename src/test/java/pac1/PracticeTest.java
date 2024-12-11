@@ -14,7 +14,10 @@ public class PracticeTest {
 
 	@Test
 	public void fTest() {
+		
+		//feature
 
+		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 
 	}
