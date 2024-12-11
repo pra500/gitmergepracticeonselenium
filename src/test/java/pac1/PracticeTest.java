@@ -28,8 +28,22 @@ import org.testng.annotations.Test;
 		
 	
 	
-	System.out.println("code");
+	System.out.println("code1");
 			
+	
+	
+	
+	System.out.println("code2");
+	
+	
+	
+	System.out.println("code3");	
+	
+	
+	
+	
+	
+	
 	
 		}
 	
@@ -45,9 +59,15 @@ import org.testng.annotations.Test;
 		}
 	
 		@AfterClass
-		public void afterClass() {
+		public void afterClass()
+		{
 	
 			driver.close();
 	
 		}
+
+	
+		
+
+
 	}
