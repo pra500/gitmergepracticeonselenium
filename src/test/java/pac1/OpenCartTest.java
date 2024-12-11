@@ -32,6 +32,11 @@ public class OpenCartTest {
 		
 		
 		
+		
+		System.out.println(driver.getCurrentUrl());
+		
+		
+		
 
 	}
 
