@@ -21,6 +21,7 @@ public class PracticeTest {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 		
 
 	}
