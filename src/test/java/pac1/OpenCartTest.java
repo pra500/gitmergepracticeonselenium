@@ -16,6 +16,7 @@ public class OpenCartTest {
 	public void fTest() {
 
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 
 	}
 
