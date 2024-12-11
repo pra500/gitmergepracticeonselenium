@@ -29,6 +29,15 @@ public class PracticeTest {
 		System.out.println("hello");
 		System.out.println("hello1");
 		
+		
+		
+		
+		
+		System.out.println("welcome1");		
+		System.out.println("welcome2");
+		
+		
+		
 
 	}
 
