@@ -18,6 +18,7 @@ public class OpenCartTest {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 
 	}
 
