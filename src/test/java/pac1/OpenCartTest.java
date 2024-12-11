@@ -14,10 +14,13 @@ public class OpenCartTest {
 
 	@Test
 	public void fTest() {
+		
+		//master:
 
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());		
 		System.out.println(driver.getTitle());
 
 	}
