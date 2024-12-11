@@ -17,9 +17,7 @@ public class OpenCartTest {
 	@Test
 	public void fTest() {
 		
-//<<<<<<< HEAD
-		//master:
-		
+
 		
 
 		System.out.println(driver.getTitle());
@@ -27,6 +25,13 @@ public class OpenCartTest {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());		
 		System.out.println(driver.getTitle());
+		
+		
+		
+		System.out.println(driver.getCurrentUrl());
+		
+		
+		
 
 	}
 

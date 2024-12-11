@@ -15,21 +15,18 @@ public class PracticeTest {
 	@Test
 	public void fTest() {
 		
-<<<<<<< HEAD
-		//feature:
-=======
-		//feature
->>>>>>> feature
+
 
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
-<<<<<<< HEAD
-=======
+
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 		
->>>>>>> feature
+System.out.println(driver.getPageSource());
+		
+		
 
 	}
 
