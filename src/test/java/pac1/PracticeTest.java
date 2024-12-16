@@ -39,6 +39,13 @@ import org.testng.annotations.Test;
 	System.out.println("code3");
 	
 	
+	System.out.println("Tom1");
+	
+	
+	System.out.println("Tom2");
+	
+	
+	
 		}
 	
 		@BeforeClass
