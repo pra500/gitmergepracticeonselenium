@@ -1,8 +1,11 @@
 package pac1;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -17,13 +20,33 @@ public class OpenCartTest {
 	@Test
 	public void fTest() {
 		
+
 		
-		//master
 
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());		
 		System.out.println(driver.getTitle());
+		
+		
+		
+		System.out.println(driver.getCurrentUrl());
+		
+		
+		
+		
+		System.out.println(driver.getCurrentUrl());
+		
+		
+	
+		
+		System.out.println("passshhhh");
+		
+		
+		System.out.println("16 dec");
+		System.out.println("17 dec");
+		
 
 		
 	}
@@ -42,6 +65,26 @@ public class OpenCartTest {
 	
 	
 	}
+	
+	
+	@Test
+	public void f1Test() {
+
+		List<WebElement> list = driver.findElements(By.tagName("a"));
+
+		System.out.println(list.size());
+
+	}
+
+	
+	@Test
+	public void f2Test() {
+
+		System.out.println(driver.getCurrentUrl());
+		
+		
+	}
+
 
 
 	@BeforeClass
