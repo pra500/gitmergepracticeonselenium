@@ -25,7 +25,24 @@ public class OpenCartTest {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
 
+		
 	}
+	
+	
+//Pragti1
+	@Test
+	public void f1Test() {
+		
+	System.out.println(driver.getCurrentUrl());	
+
+	
+	
+	
+	
+	
+	
+	}
+
 
 	@BeforeClass
 	public void beforeClass() {
