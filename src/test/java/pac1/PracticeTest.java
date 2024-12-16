@@ -34,15 +34,9 @@ import org.testng.annotations.Test;
 	
 	
 	System.out.println("code2");
+		
 	
-	
-	
-	System.out.println("code3");	
-	
-	
-	
-	
-	
+	System.out.println("code3");
 	
 	
 		}
@@ -66,9 +60,7 @@ import org.testng.annotations.Test;
 			
 			System.out.println("ending");
 	
-		}
-
-		
+		}		
 	
 		
 
