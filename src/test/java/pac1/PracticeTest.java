@@ -7,44 +7,22 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+
 	
 	public class PracticeTest {
 	
 		WebDriver driver;
 	
 		@Test
-		public void fTest() {
-			
-	
+		public void fTest() {	
 	
 			System.out.println(driver.getTitle());
 			System.out.println(driver.getTitle());
-			System.out.println(driver.getTitle());
-	
+			System.out.println(driver.getTitle());	
 			System.out.println(driver.getTitle());
 			System.out.println(driver.getTitle());
 			
 	System.out.println(driver.getPageSource());
-		
-	
-	
-	System.out.println("code1");
-			
-	
-	
-	
-	System.out.println("code2");
-		
-	
-	System.out.println("code3");
-	
-	
-	System.out.println("Tom1");
-	
-	
-	System.out.println("Tom2");
-	
-	
 	
 		}
 	
@@ -70,6 +48,7 @@ import org.testng.annotations.Test;
 		}		
 	
 		
-
-
+		
+		
+		
 	}
