@@ -44,12 +44,12 @@ public class PracticeTest {
 		
 		
 		
-		System.out.println("happy2");
-		
-			
-		
+		System.out.println("happy2");			
+		System.out.println("happy3");
 		
 
+		
+		
 	}
 
 	@BeforeClass
