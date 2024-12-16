@@ -48,6 +48,22 @@ public class OpenCartTest {
 		System.out.println("17 dec");
 		
 
+		
+	}
+	
+	
+//Pragti1
+	@Test
+	public void f1Test() {
+		
+	System.out.println(driver.getCurrentUrl());	
+
+	
+	
+	
+	
+	
+	
 	}
 	
 	
@@ -68,6 +84,7 @@ public class OpenCartTest {
 		
 		
 	}
+
 
 
 	@BeforeClass
