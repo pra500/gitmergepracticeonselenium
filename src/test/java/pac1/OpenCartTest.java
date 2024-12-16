@@ -54,10 +54,19 @@ public class OpenCartTest {
 	@Test
 	public void f1Test() {
 
-		List<WebElement> list = driver.findElements(By.tagName("input"));
+		List<WebElement> list = driver.findElements(By.tagName("a"));
 
 		System.out.println(list.size());
 
+	}
+
+	
+	@Test
+	public void f2Test() {
+
+		System.out.println(driver.getCurrentUrl());
+		
+		
 	}
 
 
